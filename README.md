@@ -1,4 +1,4 @@
-# CI/CD using Jenkins, Docker and Google Cloud Platform 
+# CI/CD Pipeline using Jenkins, Docker and Google Cloud Platform 
 
 ## Description
 
